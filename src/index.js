@@ -2,10 +2,7 @@ import React from 'react';
 import ReactDom from 'react-dom';
 
 import AppHeader from './components/app-header';
-
-const SearchPanel = () => {
-  return <input placeholder="search" />;
-};
+import SearchPanel from './components/search-panel';
 
 const TodoList = () => {
   return (
