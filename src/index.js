@@ -3,15 +3,7 @@ import ReactDom from 'react-dom';
 
 import AppHeader from './components/app-header';
 import SearchPanel from './components/search-panel';
-
-const TodoList = () => {
-  return (
-    <ul>
-      <li>Learn React</li>
-      <li>Build Awesome App</li>
-    </ul>
-  );
-};
+import TodoList from './components/todo-list';
 
 const App = () => {
   return (
