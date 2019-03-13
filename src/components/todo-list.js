@@ -2,7 +2,7 @@ import React from 'react';
 
 import TodoListItem from './todo-list-item';
 
-const TodoList = () => {
+const TodoList = ({ todos }) => {
   return (
     <ul>
       <li><TodoListItem label="Drink Coffee" /></li>
