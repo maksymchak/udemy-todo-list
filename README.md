@@ -47,5 +47,5 @@ The build is minified and the filenames include the hashes.
 Your app is ready to be deployed!
 
 ## Misc
-Follow Me: [LinkedIn](https://www.linkedin.com/in/anton-maksymchak/), [Facebook](https://www.facebook.com/Anton.Maksymchak), [GitHub](https://github.com/maksymchak)
+Follow Me: [LinkedIn](https://www.linkedin.com/in/anton-maksymchak/), [Facebook](https://www.facebook.com/Anton.Maksymchak), [GitHub](https://github.com/maksymchak) 
 ©[Anton Maksymchak](https://github.com/maksymchak) 2018
